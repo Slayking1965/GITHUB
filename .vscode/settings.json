@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylamaEnabled": true,
+    "python.pythonPath": "D:\\Microsoft VS Code\\Python38\\python.exe",
+    "docker-linter.debug": true
+}
